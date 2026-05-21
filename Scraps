@@ -1,0 +1,68 @@
+Scraps
+
+
+
+Change Log
+
+<div class="tl-item tl-cyan"><div class="year"></div><div class="desc"></div></div>
+<div class="tl-item tl-lime"><div class="year"></div><div class="desc"></div></div>
+<div class="tl-item tl-yellow"><div class="year"></div><div class="desc"></div></div>
+
+
+
+Streaming post Template
+
+<div class="post-card fade-in">
+<div class="window-title">
+<div class="window-title-text">&#x1F4C4; post_001.txt</div>
+<div class="window-btns"><div class="window-btn">&#x2013;</div><div class="window-btn">&#x25A1;</div><div class="window-btn">&#x2715;</div></div>
+</div>
+<div class="post-img" style="background:linear-gradient(135deg,#0a0a2e,#0717d9)">&#x1F5A5;&#x2728;</div>
+<div class="post-content">
+<!-- EDIT: Change the category tag. Use pt-blue, pt-cyan, pt-lime, or pt-yellow for different colors -->
+<span class="post-tag pt-cyan">lifestyle</span>
+<!-- EDIT: Replace this title with your own -->
+<div class="post-title">My PC Setup</div>
+<!-- EDIT: Replace this text with your own post preview -->
+<div class="post-excerpt">Finally finished building my dream workstation. CRT monitor for aesthetics, mechanical keyboard that sounds like rain, and enough RGB to light up a runway. Here's the full tour of my digital habitat.</div>
+<!-- EDIT: Change the date and replace # with a link to your full post -->
+<div class="post-meta"><span>2026.05.06</span><a href="#" class="post-read">&#x25B6; read</a>
+
+
+
+Email post subscribe
+
+<!-- NOTE: This subscribe form is decorative only and does not send messages without a backend -->
+<!-- EDIT: Delete this block if you do not need it -->
+<div class="widget fade-in"><div class="widget-header wh-lime">&#x1F4EC; subscribe</div>
+<div class="widget-body">
+<div style="font-family:'IBM Plex Mono',monospace;font-size:.75em;color:var(--text-light);margin-bottom:10px">Get new transmissions delivered to your inbox. No spam. &#x1F4E1;</div>
+<div class="subscribe-form">
+<input type="email" placeholder="your@email.com">
+<button type="button">&#x25B6; subscribe</button>
+</div></div></div>
+
+
+
+Discord button
+
+<a href="#" class="link-btn fade-in lb-blue"><span class="icon"><img src="images/discord_icon.png" alt="discord icon"></span> Discord server</a>
+Paypal button
+
+
+
+Paypal button
+
+<a href="#" class="link-btn fade-in lb-blue"><span class="icon"><img src="images/paypal_icon.png" alt="paypal icon"></span> Paypal</a>
+
+
+
+GoFundMe button
+
+<a href="" class="link-btn fade-in lb-blue"><span class="icon"><img src="images/gofundme_icon.png" alt="gofudme icon"></span> GoFundMe </a>
+
+
+
+Buy Me a Coffee button
+
+<a href="#" class="link-btn fade-in lb-blue"><span class="icon"><img src="images/coffee_icon.png" alt="coffee icon"></span> Buy me a coffee</a>
